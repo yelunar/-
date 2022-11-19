@@ -6,7 +6,32 @@
 > **<개발 이유>**
  
   일반인들에게는 일상처럼 피할 수 있는 사소하고 반복적인 위험 상황이 청각장애인들에게는 큰 사고로 이어질 수 있는 거대한 위험으로 다가오게 됩니다. 주변의 소리를 감지하여 사용자에게 알림을 주어 위험을 회피할 수 있게 해주는 전자기기가 있다면 청각을 통한 정보의 부재를 어느 정도 보완해줄 수 있지 않을까 하는 생각에 청각장애인들을 위한 위험 상황 알림 장치에 대하여 구상해 보기로 하였습니다. 
- 
+  
+  ###   
+  
+  ### 구현 회로도
+  
+  ###
+  ![구현회로도](https://github.com/yelunar/Hazardous-Notifi-System/blob/main/%EA%B5%AC%ED%98%84%ED%9A%8C%EB%A1%9C%EB%8F%84.png?raw=true)
+  
+  ### 구현 HW 
+  ![구현HW앞](https://github.com/yelunar/Hazardous-Notifi-System/blob/main/%EA%B5%AC%ED%98%84%20HW%20%EC%95%9E.png?raw=true)
+  ![구현HW측면](https://github.com/yelunar/Hazardous-Notifi-System/blob/main/%EA%B5%AC%ED%98%84%20HW%20%EC%B8%A1%EB%A9%B4.png?raw=true)
+   
+  ### 구현 HW 착용
+  
+  ###
+  ![구현HW착용1](https://github.com/yelunar/Hazardous-Notifi-System/blob/main/%EA%B5%AC%ED%98%84%20HW%20%EC%B0%A9%EC%9A%A91.png?raw=true)
+  ![구현HW착용2](https://github.com/yelunar/Hazardous-Notifi-System/blob/main/%EA%B5%AC%ED%98%84%20HW%20%EC%B0%A9%EC%9A%A92.png?raw=true)
+  
+  ### 구현 사진
+  1) 소음 크기가 보통일 때
+  
+  ![소음보통](https://github.com/yelunar/Hazardous-Notifi-System/blob/main/%EC%86%8C%EC%9D%8C%20%ED%81%AC%EA%B8%B0%EA%B0%80%20%EB%B3%B4%ED%86%B5%EC%9D%BC%20%EB%95%8C.png?raw=true)
+  
+  2) 소음 크기가 강할 때
+  
+  ![소음강](https://github.com/yelunar/Hazardous-Notifi-System/blob/main/%EC%86%8C%EC%9D%8C%20%ED%81%AC%EA%B8%B0%EA%B0%80%20%EA%B0%95%ED%95%A0%20%EB%95%8C.png?raw=true)
 
 소스코드는 다음과 같이 작성할 수 있습니다.
 
